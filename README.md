@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/LoRa-Mesh-9C27B0?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Satellite-Iridium-1565C0?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" />
 </p>
 
 <p align="center">
